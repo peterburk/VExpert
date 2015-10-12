@@ -1,5 +1,4 @@
-# VExpert
-VExpert Documentation
+# VExpert Documentation
 
 <img class="aligncenter" alt="VExpert Logo" src="https://raw.githubusercontent.com/peterburk/VExpert/master/VExpert%20Documentation.png" width="128">
 
